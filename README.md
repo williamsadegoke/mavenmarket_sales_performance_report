@@ -13,12 +13,12 @@ To develop a dashboard in Power BI to design and deliver an end-to-end business 
 ## Objectives
 
 1.	Track:
-*•	Sales, 
-*•	revenue, 
-*•	profit and 
+   * Sales,
+  	* revenue,
+  	* profit and 
 *•	returns
-2.	compare regional performance, 
-3.	analyze product-level trends and forecasts, and identify high-value customers
+3.	compare regional performance, 
+4.	analyze product-level trends and forecasts, and identify high-value customers
 
 ## `Solution Delivered
 
