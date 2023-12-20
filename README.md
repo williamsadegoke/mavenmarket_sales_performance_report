@@ -13,10 +13,10 @@ To develop a dashboard in Power BI to design and deliver an end-to-end business 
 ## Objectives
 
 1.	Track:
-•	Sales, 
-•	revenue, 
-•	profit and 
-•	returns
+*•	Sales, 
+*•	revenue, 
+*•	profit and 
+*•	returns
 2.	compare regional performance, 
 3.	analyze product-level trends and forecasts, and identify high-value customers
 
@@ -58,7 +58,7 @@ Sales perfromace forecast
 ### Step 4:
 
 Created charts to graphically summarize the KPIs
-!![Screenshot 2023-12-20 130121](https://github.com/williamsadegoke/mavenmarket_sales_performance_report/assets/81843920/fca5cbab-e007-4b38-961c-9839a5728a0a)
+![Screenshot 2023-12-20 130121](https://github.com/williamsadegoke/mavenmarket_sales_performance_report/assets/81843920/fca5cbab-e007-4b38-961c-9839a5728a0a)
 
  
 
