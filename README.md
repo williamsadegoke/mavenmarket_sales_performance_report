@@ -58,8 +58,9 @@ Sales perfromace forecast
 ### Step 4:
 
 Created charts to graphically summarize the KPIs
+!![Screenshot 2023-12-20 130121](https://github.com/williamsadegoke/mavenmarket_sales_performance_report/assets/81843920/fca5cbab-e007-4b38-961c-9839a5728a0a)
 
-  
+ 
 
 ## Business Insights
 
