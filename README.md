@@ -20,7 +20,7 @@ To develop a dashboard in Power BI to design and deliver an end-to-end business 
 2.	compare regional performance, 
 4.	analyze product-level trends and forecasts, and identify high-value customers
 
-## `Solution Delivered
+## Solution Delivered
 
 ### Step 1:
 
