@@ -3,7 +3,7 @@ Located in Canada, Mexico and United States
 
 ## Business Challenge
 
-Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States, needs a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecasts, and identify high-value customers. 
+Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States, needed a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecasts, and identify high-value customers. 
 
 
 ## Goal
